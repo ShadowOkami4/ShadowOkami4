@@ -18,7 +18,6 @@ Welcome to my GitHub profile! I'm Lukas, known online as ShadowOkami (or simply 
 
 ## 📫 How to Reach Me
 
-- **Discord**: .shadowokami
 - **Email**: service@shadowokami.com
 
 ## 🌱 What I'm Currently Learning
