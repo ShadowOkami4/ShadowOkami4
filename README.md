@@ -3,16 +3,9 @@
 
 Welcome to my GitHub profile! I'm Lukas, known online as ShadowOkami (or simply Okami). I specialize in Python development, particularly in creating Discord bots with [Py-Cord](https://github.com/Pycord-Development/pycord) and crafting OBS Python scripts that connect via Discord webhooks to enhance streaming experiences.
 
-## 🔧 Technologies & Tools
+## 🔧 Languages i use 
 
-- **Languages**: Python
-- **Frameworks**: Py-Cord
-- **Tools**: OBS, Discord Webhooks
-
-## 📈 GitHub Stats
-
-![Okami's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadowOkami&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowOkami&layout=compact&theme=radical)
+- **Python**
 
 ## 🚀 Projects
 
