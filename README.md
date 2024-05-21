@@ -21,8 +21,7 @@ Welcome to my GitHub profile! I'm Lukas, known online as ShadowOkami (or simply 
 - **[(WIP)Narrator](#)**: a Narrator Bot to help with D&D Campains or other Storytelling using command groups and a database
 
 ### 🎥 OBS Scripts
-- **[StreamNotifier Aka OBScord ](https://github.com/ShadowOkami4/OBScord)**: Sends messages via Discord webhook when someone starts streaming his stream in OBS.
-
+- **[StreamNotifier](https://github.com/ShadowOkami4/OBScord)**: Sends messages via Discord webhook when someone starts his stream in OBS.
 
 ## 📫 How to Reach Me
 
