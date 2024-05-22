@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm Lukas, known online as ShadowOkami (or simply 
 
 ### 📦 Discord Bots
 - **[(WIP) TEMPOkami](https://github.com/ShadowOkami4/TempOkami)**: a TempChannel Bot 
-- **[(WIP)Narrator](#)**: a Narrator Bot to help with D&D Campains or other Storytelling using command groups and a database
+- **[(WIP)Narrator](https://github.com/ShadowOkami4/Narrator)**: a Narrator Bot to help with D&D Campains or other Storytelling using command groups and a database
 
 ### 🎥 OBS Scripts
 - **[StreamNotifier](https://github.com/ShadowOkami4/OBScord)**: Sends messages via Discord webhook when someone starts his stream in OBS.
