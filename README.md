@@ -26,6 +26,6 @@ Welcome to my GitHub profile! I'm Lukas, known online as ShadowOkami (or simply 
 - Integrating more services with Discord bots
 - Enhancing OBS scripts for better streaming management
 - Trying to Learn Html,css and Java Script to build my own website
-- Learnig more Program Languages to widen my workspace2
+- Learnig more Program Languages to widen my workspace
 
 Thanks for visiting my profile! Feel free to check out my repositories and reach out if you have any questions or collaboration ideas.
