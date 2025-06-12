@@ -1,16 +1,20 @@
-## Hi there 👋
+![new Banner](https://github.com/user-attachments/assets/4889dd27-ac47-4e9a-99fb-ce0d896b516b)
 
-<!--
-**ShadowOkami4/ShadowOkami4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+## Who am I ?
 
-Here are some ideas to get you started:
+Hello i am Okami a hobby Programmer with knowledge of Java, Javascript, C++, Python and more  i make my own little Programms Scripts and more   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What do i provide
+
+Right now i have a  OBS Script  Named [Stream Notifier](https://github.com/ShadowOkami4/StreamNotifier) wich is used to send a webhook message to a discord server the moment you press on start streaming
+
+<img src="https://github.com/user-attachments/assets/5c47b897-4b29-41f6-af48-5ac486efab73" alt="drawing" width="200"/>
+
+
+---
+## Contact
+
+service@shadowokami.com
