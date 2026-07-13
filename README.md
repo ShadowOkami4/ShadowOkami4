@@ -2,7 +2,7 @@
   <img src="./assets/okami-mark.webp" width="180" alt="Okami wolf logo">
   <h1>OKAMI</h1>
   <p><strong>Hobby developer, Linux tinkerer, and curious creator.</strong></p>
-  <p><a href="https://shadowokami.de">Website</a> / <a href="https://www.youtube.com/@shadowokami04">YouTube</a> / <a href="https://www.twitch.tv/shadowokami_">Twitch</a> / <a href="mailto:service@shadowokami.de">Email</a></p>
+  <p><a href="https://shadowokami.com">Website</a> / <a href="https://www.youtube.com/@shadowokami04">YouTube</a> / <a href="https://www.twitch.tv/shadowokami_">Twitch</a> / <a href="mailto:service@shadowokami.de">Email</a></p>
 </div>
 
 ---
