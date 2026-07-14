@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/okami-mark.webp" width="180" alt="Okami wolf logo">
   <h1>OKAMI</h1>
-  <p><strong>Hobby developer, Linux tinkerer, and curious creator.</strong></p>
+  <p><strong>Hobby developer, Linux tinkerer, worldbuilder, and curious creator.</strong></p>
   <p><a href="https://shadowokami.com">Website</a> / <a href="https://www.youtube.com/@shadowokami04">YouTube</a> / <a href="https://www.twitch.tv/shadowokami_">Twitch</a> / <a href="mailto:service@shadowokami.de">Email</a></p>
 </div>
 
@@ -9,9 +9,9 @@
 
 ## Personal ideas, made real
 
-I'm Okami, a beginner hobby developer who likes turning personal ideas into useful tools, experiments, and bigger long-term projects. I usually build for my own setup first, then share the results publicly when they become useful or interesting for others too.
+I'm Okami, a beginner hobby developer who likes turning personal ideas into useful tools, experiments, long-term projects, and worlds to explore. I usually create for my own setup or interests first, then share the results publicly when they become useful, interesting, or simply fun for others too.
 
-I enjoy working at my own pace, trying new technologies, and shaping projects around how I would actually use them.
+I enjoy working at my own pace, trying new technologies, and shaping each project around how I would actually use, play, or explore it.
 
 ## Projects
 
@@ -20,12 +20,13 @@ I enjoy working at my own pace, trying new technologies, and shaping projects ar
 | [**Voidline**](https://github.com/ShadowOkami4/Voidline_Showcase) | An experimental desktop experience and shell around Hyprland, planned across Quickshell, Python, Lua, and Rust. | The current repository is an **AI-generated showcase**. The real implementation is still in development. |
 | **LunaEcho** | A Discord bot planned around moderation, tickets, music, leveling, temporary voice channels, and flexible self-hosted or managed access. | In development. A public GitHub repository is planned. |
 | [**StreamNotifier**](https://github.com/ShadowOkami4/StreamNotifier) | A small utility for sending a Discord notification when a stream goes live. | Public and available to try. |
+| [**MirrorGate**](https://github.com/ShadowOkami4/Mirrorgate) | An open-source D&D 5.5e world setting presented as an interconnected Obsidian vault, where broken time, folded roads, and dangerous reflections shape one shared realm. | Early development. Planned: 10 one-shots, 5 short adventures, 3 long-term campaign frameworks, plus subclasses, feats, magic items, monsters, and more. |
 
-## Tools I like exploring
+## Tools and interests I like exploring
 
-`JavaScript` `Node.js` `Python` `Lua` `Rust` `Quickshell` `Hyprland` `Linux` `Discord`
+`JavaScript` `Node.js` `Python` `Lua` `Rust` `Quickshell` `Hyprland` `Linux` `Discord` `Obsidian` `D&D 5.5e` `Worldbuilding`
 
-These are tools that currently appear in my projects and experiments, not a list of things I claim to have mastered.
+These are tools and creative areas that currently appear in my projects and experiments, not a list of things I claim to have mastered.
 
 ## Videos and streams
 
