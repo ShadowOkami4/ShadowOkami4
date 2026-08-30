@@ -3,6 +3,7 @@
   <h1>OKAMI</h1>
   <p><strong>Hobby developer, Linux tinkerer, worldbuilder, and curious creator.</strong></p>
   <p><a href="https://shadowokami.com">Website</a> / <a href="https://www.youtube.com/@shadowokami04">YouTube</a> / <a href="https://www.twitch.tv/shadowokami_">Twitch</a> / <a href="mailto:service@shadowokami.com">Email</a></p>
+  <p><a href="https://ko-fi.com/W7W31TOGEY"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi"></a></p>
 </div>
 
 ---
